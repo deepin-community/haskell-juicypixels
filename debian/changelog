@@ -1,8 +1,10 @@
-haskell-juicypixels (3.3.5-deepin1) unstable; urgency=medium
+haskell-juicypixels (3.3.7-1) unstable; urgency=medium
 
-  * Rebuild
+  * Declare compliance with Debian policy 4.6.1
+  * Remove retired developer, Joachim Breitner, from Uploaders.
+  * New upstream release
 
- -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:39:41 +0800
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Thu, 21 Jul 2022 11:21:36 +0300
 
 haskell-juicypixels (3.3.5-1) unstable; urgency=medium
 
